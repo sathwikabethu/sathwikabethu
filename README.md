@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sathwika bethu</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🌱 I’m currently learning **cascading style sheets,java**
+- 🌱 I’m currently learning **java,UI/UX designing**
 
 - 📫 How to reach me **bethusathwika@gmail.com**
 
